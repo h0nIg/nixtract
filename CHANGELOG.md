@@ -6,7 +6,7 @@
 ## [0.4.1] - 2026-09-09
 ### Fixed
 - Updates `quinn-proto` to 0.11.16 to address [GHSA-4w2j-m93h-cj5j](https://github.com/advisories/GHSA-4w2j-m93h-cj5j).
-
+- fix CPE format: [#67](https://github.com/tweag/nixtract/pull/67)
 ### Changed
 - Updates Rust and Nix flake dependencies.
 
